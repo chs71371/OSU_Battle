@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 30c8f5f5b9b9e3347b4194cb411d6f6a
+timeCreated: 1502423065
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: MI LANTING
+  fontNames:
+  - MI LANTING
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
